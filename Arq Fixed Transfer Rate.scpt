@@ -4,7 +4,7 @@
 # Note: tested on Arq Backups v5, OSX Mohave 
 
 try
-	#startup delay to allow for slow machine wakeup time
+	#startup delay to allow for a slow connection if rate was on Max
 	delay 120
 	
 	# bring Arq to active/front
